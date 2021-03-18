@@ -1,4 +1,5 @@
 Technologies used :
+
 *Spring Boot 2.3.3
 *Hibernate
 *H2
