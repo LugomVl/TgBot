@@ -1,6 +1,8 @@
 Technologies used :
 
 * Spring Boot 2.3.4
+* Spring MVC
+* Spring Data
 * Hibernate
 * H2
 * JUnit 4
