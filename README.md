@@ -10,6 +10,7 @@ Technologies used :
 To launch the application, download it and type in the command line: java-jar TelegramBotResliv-1.0-SNAPSHOT.jar
 
 After the launch, you can start communicating with the bot. You can find it by the name TestCityInfoBot.
+
 The following cities will be immediately available: Minsk, Moscow, Kiev, Washington.
 
 Bot name: TestCityInfoBot
